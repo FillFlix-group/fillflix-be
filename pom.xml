@@ -18,6 +18,10 @@
 
     <modules>
 	    <!-- add modules here -->
+        <module>trucks-service</module>
+        <module>common-rest</module>
+        <module>common-search</module>
+        <module>common-events</module>
     </modules>
 
     <build>

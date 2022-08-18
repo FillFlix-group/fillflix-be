@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trucks-service" vcs="Git" />
   </component>
 </project>
