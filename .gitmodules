@@ -1,0 +1,12 @@
+[submodule "common-events"]
+	path = common-events
+	url = git@github.com:FillFlix-group/Common-Events.git
+[submodule "common-rest"]
+	path = common-rest
+	url = git@github.com:FillFlix-group/Common-Rest.git
+[submodule "common-search"]
+	path = common-search
+	url = git@github.com:FillFlix-group/Common-Search.git
+[submodule "trucks-service"]
+	path = trucks-service
+	url = git@github.com:FillFlix-group/Trucks-Service.git
