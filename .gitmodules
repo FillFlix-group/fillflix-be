@@ -10,3 +10,27 @@
 [submodule "trucks-service"]
 	path = trucks-service
 	url = git@github.com:FillFlix-group/Trucks-Service.git
+[submodule "Documents-Service"]
+	path = Documents-Service
+	url = git@github.com:FillFlix-group/Documents-Service.git
+[submodule "Accounts-Search-Service"]
+	path = Accounts-Search-Service
+	url = git@github.com:FillFlix-group/Accounts-Search-Service.git
+[submodule "Loads-Service"]
+	path = Loads-Service
+	url = git@github.com:FillFlix-group/Loads-Service.git
+[submodule "reference-data-service"]
+	path = reference-data-service
+	url = git@github.com:FillFlix-group/Reference-Data-Service.git
+[submodule "accounts-service"]
+	path = accounts-service
+	url = git@github.com:FillFlix-group/Accounts-Service.git
+[submodule "accounts-search-service"]
+	path = accounts-search-service
+	url = git@github.com:FillFlix-group/Accounts-Search-Service.git
+[submodule "documents-service"]
+	path = documents-service
+	url = git@github.com:FillFlix-group/Documents-Service.git
+[submodule "loads-service"]
+	path = loads-service
+	url = git@github.com:FillFlix-group/Loads-Service.git
