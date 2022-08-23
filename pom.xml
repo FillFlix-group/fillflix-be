@@ -22,6 +22,8 @@
         <module>common-rest</module>
         <module>common-search</module>
         <module>common-events</module>
+        <module>accounts-search-service</module>
+        <module>accounts-service</module>
     </modules>
 
     <build>
