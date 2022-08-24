@@ -24,6 +24,8 @@
         <module>common-events</module>
         <module>accounts-search-service</module>
         <module>accounts-service</module>
+        <module>loads_service</module>
+        <module>load-search-service</module>
     </modules>
 
     <build>

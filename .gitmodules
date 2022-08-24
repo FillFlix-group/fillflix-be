@@ -16,9 +16,6 @@
 [submodule "Accounts-Search-Service"]
 	path = Accounts-Search-Service
 	url = git@github.com:FillFlix-group/Accounts-Search-Service.git
-[submodule "Loads-Service"]
-	path = Loads-Service
-	url = git@github.com:FillFlix-group/Loads-Service.git
 [submodule "reference-data-service"]
 	path = reference-data-service
 	url = git@github.com:FillFlix-group/Reference-Data-Service.git
@@ -40,3 +37,9 @@
 [submodule "users-search-service"]
 	path = users-search-service
 	url = git@github.com:FillFlix-group/users-search-service.git
+[submodule "loads_service"]
+	path = loads_service
+	url = git@github.com:FillFlix-group/Loads-Service.git
+[submodule "load-search-service"]
+	path = load-search-service
+	url = git@github.com:FillFlix-group/Load-Search-Service.git
