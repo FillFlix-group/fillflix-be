@@ -7,12 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="accounts-service" />
         <module name="common-rest" />
+        <module name="loads-search-service" />
+        <module name="accounts-service" />
         <module name="common-search" />
         <module name="accounts-search-service" />
         <module name="trucks-service" />
         <module name="common-events" />
+        <module name="loads-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -23,6 +25,8 @@
       <module name="common-events" options="-parameters" />
       <module name="common-rest" options="-parameters" />
       <module name="common-search" options="-parameters" />
+      <module name="loads-search-service" options="-parameters" />
+      <module name="loads-service" options="-parameters" />
       <module name="trucks-service" options="-parameters" />
     </option>
   </component>
