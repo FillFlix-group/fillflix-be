@@ -9,11 +9,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common-rest" />
         <module name="loads-search-service" />
+        <module name="api-gateway" />
         <module name="accounts-service" />
+        <module name="reference-data-service" />
         <module name="common-search" />
         <module name="accounts-search-service" />
         <module name="trucks-service" />
         <module name="common-events" />
+      </profile>
+      <profile name="Annotation profile for lms" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="loads-service" />
       </profile>
     </annotationProcessing>
@@ -22,11 +29,13 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="accounts-search-service" options="-parameters" />
       <module name="accounts-service" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
       <module name="common-events" options="-parameters" />
       <module name="common-rest" options="-parameters" />
       <module name="common-search" options="-parameters" />
       <module name="loads-search-service" options="-parameters" />
       <module name="loads-service" options="-parameters" />
+      <module name="reference-data-service" options="-parameters" />
       <module name="trucks-service" options="-parameters" />
     </option>
   </component>

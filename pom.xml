@@ -26,6 +26,8 @@
         <module>accounts-service</module>
         <module>loads_service</module>
         <module>load-search-service</module>
+        <module>api-gateway</module>
+        <module>reference-data-service</module>
     </modules>
 
     <build>

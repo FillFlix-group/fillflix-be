@@ -43,3 +43,6 @@
 [submodule "load-search-service"]
 	path = load-search-service
 	url = git@github.com:FillFlix-group/Load-Search-Service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:FillFlix-group/Api-Gateway.git

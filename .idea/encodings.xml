@@ -3,11 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/accounts-search-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/accounts-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-events/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-rest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-search/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/load-search-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loads_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reference-data-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trucks-service/src/main/java" charset="UTF-8" />
