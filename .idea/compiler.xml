@@ -16,11 +16,6 @@
         <module name="accounts-search-service" />
         <module name="trucks-service" />
         <module name="common-events" />
-      </profile>
-      <profile name="Annotation profile for lms" enabled="true">
-        <sourceOutputDir name="../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="loads-service" />
       </profile>
     </annotationProcessing>
